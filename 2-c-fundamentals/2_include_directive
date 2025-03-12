@@ -1,0 +1,6 @@
+#include <stdio.h> // This is preprocessor directive
+// Short for Standard Input/Output
+
+int main() {
+    return 0;
+}
