@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+    // casting (int)26.34 = 26
+    //sizeof - how many bytes are occupied in memory.
+    return 0;
+}
