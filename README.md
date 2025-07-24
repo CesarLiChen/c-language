@@ -12,9 +12,10 @@ Ch. 1: Getting Started
 Ch. 2: Variables and math  
 Ch. 3: Conditions and comparisons  
 Ch. 4: More advanced flow control  
-Ch. 5: Pointers  
-- [](/pointers_book.c)
-- [](/void_pointers_book.c)  
+Ch. 5: Pointers
+- [pointers_book.c](pointers_book.c)
+- [void_pointers_book.c](void_pointers_book.c)
+
 Ch. 6: Functions  
 Ch. 7: Arrays and Strings  
 Ch. 8: The string library  
