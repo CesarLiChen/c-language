@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 #define PI 3.14159 // Define constants, saves memory.
-#define ADD(a,b) (a + b)
+#define ADD(a,b) (a + b) // Defining functions
 
 void main(void)
 {
@@ -14,6 +14,8 @@ void main(void)
 
     printf("Addition of 10 and 63 is %d.\n", ADD(10, 63));
 
+    /* The preprocessor can evaluate conditions with
+    the #if directive. */
     // if #if 1 then the code between #if - #else will run.
     #if 0
         printf("This won't run since #if has 0\n");

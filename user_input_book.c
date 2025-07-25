@@ -4,7 +4,7 @@
     Below is the way that is not recommended
     because of users and their 
     unpredictability.
-    Recommended way on  user_input_2_book.c
+    Recommended way on user_input_2_book.c
 */
 
 void main(void)

@@ -1,21 +1,24 @@
+#include <stdio.h>
 /* Typedef 
 Particularly useful for enumerated types (enums) and
 data structures.
 */
 
+// After Standard C23 false and true are now keywords.
+// Change with something else.
 typedef enum {
-    false,
-    true
+    my_false,
+    my_true
 } BOOLEAN;
 
 void main(void)
 {
     BOOLEAN b_var;
 
-    b_var = false;
-    if (b_var == true)
+    b_var = my_false;
+    if (b_var == my_true)
     {
-        prinft("TRUE\n");
+        printf("TRUE\n");
     } else 
     {
         printf("FALSE\n");

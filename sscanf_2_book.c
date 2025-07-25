@@ -7,8 +7,9 @@ void main(void)
     char result[10];
     char string[25] = "The first number is 1";
 
-    // Specifically looks for 'first' and '1' by writing down
-    // existing 'The', 'number', and 'is' words.
+    /* Specifically looks for 'first' and '1' by writing down
+    existing 'The', 'number', and 'is' words.
+    == 2 looks for the fact that it succesfully found 2 words. */
     if (sscanf (string, "The %s number is %d", result, &val) == 2)
     {
         printf("String: %s - Value: %d\n", result, val);

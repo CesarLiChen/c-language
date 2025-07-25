@@ -48,6 +48,8 @@ void main(void)
     
     char *ptr_to_astring = astring;
 
+    // sprintf auto adds terminating 0 at the end of the string.
+    // It writes the sentence into the astring variable.
     sprintf(astring, "The value of val is %d\n", val);
     while (*ptr_to_astring)
     {

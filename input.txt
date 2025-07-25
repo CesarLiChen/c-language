@@ -5,3 +5,5 @@ This file will be used for file input and output operations in C.
 A few more random sentences here.
 Here as well.
 This should be enough.
+
+A new line has been appended!!

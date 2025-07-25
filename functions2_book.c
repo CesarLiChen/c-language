@@ -19,6 +19,7 @@ void main(void)
     int b = 2;
     int diff;
 
-    printf("The sum of 5 and %d is %d\n", b, sum_and_diff(5, b, &diff));
+    printf("The sum of 5 and %d is %d\n", b, 
+        sum_and_diff(5, b, &diff));
     printf("The difference of 5 and %d is %d\n", b, diff);
 }
