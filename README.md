@@ -1,14 +1,18 @@
 # C
-Little place for storing what I've learn of the C language.
+Little place for storing what I've learned and book(s) I've read regarding the C language.
 
-I tried to apply some semblance of organization but as you can notice, I quickly gave up.
+*~ Re-organization in progress*
 
 #### Main way I compiled the programs.  
-In terminal (might need to make sure gcc is installed):  
+In terminal, on c file directory (make sure gcc is installed):  
 - `gcc -o my_prog name_of_file.c`  
 
 #### To run compiled program.
 - `./my_prog`
+
+<details>
+  
+<summary>Intro to C & GUI</summary>  
 
 ### An Introduction to C & GUI Programming  
 Ch. 1: Getting Started  
@@ -53,3 +57,4 @@ Ch. 12: Header files and the preprocessor
 - [Directory of files](header_files_and_preprocessor/)
   - To compile, do `gcc -o my_prog main.c function.c` inside the directory.
 - [#define directive](define_directive_book.c)
+</details>
