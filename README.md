@@ -1,8 +1,6 @@
 # C
 Little place for storing what I've learned and book(s) I've read regarding the C language.
 
-*~ Re-organization in progress*
-
 #### Main way I compiled the programs.  
 In terminal, on c file directory (make sure gcc is installed):  
 - `gcc -o my_prog name_of_file.c`  
@@ -10,7 +8,7 @@ In terminal, on c file directory (make sure gcc is installed):
 #### To run compiled program.
 - `./my_prog`
 
-#### Learnt C from schooling and a book.  
+#### Repo organization  
 <details>
 <summary>C from School/Courses</summary>
 
