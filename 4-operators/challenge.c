@@ -14,10 +14,10 @@ int main() {
     double inDays;
     double minutesInYear = 60 * 24 * 365;
 
-    printf("Please enter your number in minutes:\n");
+    printf("Please enter your number in minutes: ");
     scanf("%d", &userMins);
 
-    printf("wha%d\n", (userMins/60.0));
+    printf("Equals to %.2f hours.\n", (userMins/60.0));
     inYears = userMins / minutesInYear;
     inDays = userMins * (1/60.0) * (1/24.0);
 
