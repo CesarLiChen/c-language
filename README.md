@@ -10,10 +10,33 @@ In terminal, on c file directory (make sure gcc is installed):
 #### To run compiled program.
 - `./my_prog`
 
+#### Learnt C from schooling and a book.  
+<details>
+<summary>C from School/Courses</summary>
+
+### Beginning with no end  
+1. Basics
+2. Fundamentals
+3. Variables and Data Types
+4. Operators
+5. Program Flow Control
+6. Arrays
+7. Function Parameters
+8. Strings in C
+9. Troubleshoot and Debugging
+10. Pointers
+11. More Pointers
+12. Pointer Arithmetic 
+13. Dynamic Memory Allocation
+14. Structures in C
+15. File Input and Output
+16. The C Library
+</details>
+
 <details>  
 <summary>Intro to C & GUI</summary>  
 
-### An Introduction to C & GUI Programming  
+### An Introduction to C & GUI Programming (book)  
 Ch. 1: Getting Started  
 Ch. 2: Variables and math  
 Ch. 3: Conditions and comparisons  
